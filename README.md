@@ -4,3 +4,5 @@ Este deafio teve o intuito de desmistificar a Programação Orientada a Objetos 
 
 
 Neste desafio, fomentou-se a capacidade de abstração com um problema real.
+
+Criamos uma aplicação onde é possível implementar novos cursos, novos bootcamps, realizar inscrição de alunos, calcular seu XP a partir de sua evolução e acompanhar o desenvolvimento de cada aluno.
